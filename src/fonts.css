@@ -1,0 +1,21 @@
+
+
+/* ApfelGrotezk  font */
+
+@font-face {
+  font-family: "Apfel-Brukt";
+  src: url("../fonts/apfel/ApfelGrotezk-Brukt.woff2") format("woff2"),
+    url("../fonts/apfel/ApfelGrotezk-Brukt.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Apfel-Fett";
+  src: url("../fonts/apfel/ApfelGrotezk-Fett.woff2") format("woff2"),
+    url("../fonts/apfel/ApfelGrotezk-Fett.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Apfel-Regular";
+  src: url("../fonts/apfel/ApfelGrotezk-Regular.woff2") format("woff2"),
+    url("../fonts/apfel/ApfelGrotezk-Regular.woff") format("woff");
+}
